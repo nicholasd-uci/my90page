@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://userscontent2.emaze.com/images/1da31954-83e6-4e90-8ba8-439130e9471b/333cdb80bf6bf2864e7cb625a95bb1e1.png);
+}
+
+#myText {
+    font-family: 'Lato', sans-serif;
+   color:yellow;
+   text-align: center;
+   font-size: xx-large;
+   font-weight: 100px;
+}
+
+#myText:hover {
+    color: royalblue;
+}
+
+#myList {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 75px;
+    border-color:yellow;
+    background-color: purple;
+    color: yellow
+        
+}
