@@ -17,9 +17,11 @@ body {
 #myList {
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 75px;
+    border: solid 10px;
     border-color:yellow;
     background-color: purple;
-    color: yellow
-        
+    color: yellow      
+}
+#myList:hover{
+    color: rgb(204, 37, 219);
 }
