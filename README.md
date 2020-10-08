@@ -1,7 +1,8 @@
-# my90'sPage
+# my90's Blog Page
 
+> This is solely HTML and CSS with Bootstrap
 
-## 90's blog Post
+## Blog Post
 
 Made a website with bootstrap that had a 90's theme to it. I our assignment was to render our favorite childhood past time and what we remembered from watching TV as a kid. I choose to focus on Cartoons and MTV. 
 ![top logo](./photos/top.png)
