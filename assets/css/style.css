@@ -1,26 +1,28 @@
 body {
     background-image: url(https://userscontent2.emaze.com/images/1da31954-83e6-4e90-8ba8-439130e9471b/333cdb80bf6bf2864e7cb625a95bb1e1.png);
 }
-
+h1{
+    color: rgb(11, 175, 240);
+    background-color: slateblue;
+}
 #myText {
     font-family: 'Lato', sans-serif;
-   color:yellow;
-   text-align: center;
-   font-size: xx-large;
-   font-weight: 100px;
+    color:yellow;
+    background-color: purple;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 100px;
 }
-
 #myText:hover {
-    color: rgb(121, 28, 184);
+    color: rgb(16, 211, 49);
 }
-
+/* List Groups */
 #myList {
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: solid 10px;
     border-color:yellow;
-    background-color: purple;
-    color: yellow      
+    color: purple      
 }
 #myList:hover{
     color: rgb(21, 213, 238);
@@ -29,5 +31,131 @@ body {
     color: white
 }
 .figure:hover{
-    margin-top: 25px;
+    margin-top: 50px;
+}
+#colorRow{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: purple;
+}
+
+/* Trip Down Memory Lane Photo Animation */
+#Img1{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img1:hover{
+    transform: scale(1.25) rotate(360deg);
+}
+#Img2{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img2:hover{
+    transform: scale(1.25) rotate(180deg);
+}
+#Img3{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img3:hover{
+    transform: scale(1.25) rotate(180deg);
+}
+#Img4{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img4:hover{
+    opacity: 0.2;
+}
+#Img5{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img5:hover{
+    transform: scale(1.25) rotate(360deg);
+    filter: invert(100%);
+}
+#Img6{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img6:hover{
+    transform: scale(1.25) rotate(180deg);
+}
+#Img7{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img7:hover{
+    transform: scale(1.25) rotate(180deg);
+}
+#Img8{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /*border-radius: 50%;
+    */border: 3px solid black;
+    position: relative;
+    animation-name: img8;
+    animation-duration: 3s;
+    animation-direction: alternate-reverse;
+}
+@keyframes img8 {
+    from {left: 0px;}
+    to {right: 300px}
+}
+#Img9{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img9:hover{
+    transform: scale(1.25) rotate(180deg);
+}
+#Img10{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    /* border-radius: 50%; */
+    border: 3px solid black;
+    transition: all .5s;
+}
+#Img10:hover{
+    transform: scale(1.25) rotate(360deg);
+}
+
+.footer {
+    padding: 9px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: large;
+    background-color: burlywood;
+}
+.footer h2 {
+    font-size: x-large;
 }
