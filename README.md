@@ -9,9 +9,11 @@ Made a website with bootstrap that had a 90's theme to it. I our assignment was 
 
 ***Overview***
 
-> 90's Cartoons
-> MTV
 > Flash from the Past
+
+> 90's Cartoons
+
+> MTV
 
 ## LINKS
 
