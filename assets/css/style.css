@@ -11,7 +11,7 @@ body {
 }
 
 #myText:hover {
-    color: royalblue;
+    color: rgb(121, 28, 184);
 }
 
 #myList {
@@ -23,5 +23,11 @@ body {
     color: yellow      
 }
 #myList:hover{
-    color: rgb(204, 37, 219);
+    color: rgb(21, 213, 238);
+}
+#myList:active{
+    color: white
+}
+.figure:hover{
+    margin-top: 25px;
 }
