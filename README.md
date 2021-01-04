@@ -18,7 +18,7 @@ Made a website with bootstrap that had a 90's theme to it. I our assignment was 
 
 ## LINKS
 
-- [my90'sBlog Link] Coming Soon!
+- [my90'sBlog Link](https://nicholasd-uci.github.io/my90page/)
 - [Github Repo Link](https://github.com/nicholasd-uci/my90page)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 - [Youtube Video Link](https://youtu.be/b8hc3MuRbb4)
